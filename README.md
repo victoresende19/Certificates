@@ -2,9 +2,9 @@
  Certificates of Victor Augusto Souza Resende
 
 #### Python: 
-Python 3 - Solo Learn
-Introdução ao Python - Udemy
-Visualização de dados com Python - Udemy
+- Python 3 - Solo Learn
+- Introdução ao Python - Udemy
+- Visualização de dados com Python - Udemy
 
 
 #### SQL: 
