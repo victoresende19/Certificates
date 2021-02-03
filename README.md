@@ -2,7 +2,7 @@
  Certificates of Victor Augusto Souza Resende
 
 #### Python: 
-- Python 3 - Solo Learn (English)
+- Python 3 - [Solo Learn](https://www.sololearn.com/learning/1073) (English) 
 - Introdução ao Python - Udemy (Portuguese)
 - Visualização de dados com Python - Udemy (Portuguese)
 
@@ -25,3 +25,6 @@
 
 #### Arduino: 
 - Arduino Básico - Centro Paula Souza (Portuguese)
+
+
+I love supporting the **[EFF](https://eff.org)**.
