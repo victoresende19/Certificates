@@ -6,17 +6,22 @@ Python 3 - Solo Learn
 Introdução ao Python - Udemy
 Visualização de dados com Python - Udemy
 
+
 #### SQL: 
 SQL - Solo Learn
 
-*Excel: *
+
+#### Excel: 
 Excel focado para ambiente empresarial: Básico ao Avançado! - Udemy
 
-*Data Science: *
+
+#### Data Science: 
 Data Science with Python - Solo Learn
 
-*ETL: *
+
+#### ETL: 
 Pentaho: Estratégias para soluções de ETL: Direto ao ponto - Udemy
 
-*Arduino: *
+
+#### Arduino: 
 Arduino Básico - Centro Paula Souza
