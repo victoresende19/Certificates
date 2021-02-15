@@ -12,7 +12,7 @@
 
 
 #### Power BI:
-- Loading...
+- Microsoft Power BI Para Data Science, Versão 2.0 - [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science) (Portuguese)
 
 
 #### SQL: 
