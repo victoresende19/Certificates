@@ -1,12 +1,6 @@
 # Certificates
  Certificates of Victor Augusto Souza Resende
 
-#### IBM: 
-- Watson Assistant Foundations - [IBM](https://www.ibm.com/training/Y835927A61405V35) (English)
--
--
--
--
 
 #### Python: 
 - Python 3 - [Solo Learn](https://www.sololearn.com/learning/1073) (English) 
@@ -20,6 +14,21 @@
 
 #### Data Science: 
 - Data Science with Python - [Solo Learn](https://www.sololearn.com/learning/1093) (English)
+- Python for Data Science - [IBM](https://cognitiveclass.ai/courses/python-for-data-science) (English)
+- Machine Learning with Python - [IBM](https://cognitiveclass.ai/courses/machine-learning-with-python) (English)
+
+
+#### IBM Watson: 
+- Watson Assistant Foundations - [IBM](https://www.ibm.com/training/Y835927A61405V35) (English)
+- Watson Assistant Methodology - [IBM](https://www.ibm.com/training/Y835927A61405V35) (English)
+- Watson Studio Essentials - [IBM](https://www.ibm.com/training/Y835927A61405V35) (English)
+- Watson Knowledge Studio Methodology - [IBM](https://www.ibm.com/training/Y835927A61405V35) (English)
+- Watson Discovery Foundations - [IBM](https://www.ibm.com/training/Y835927A61405V35) (English)
+- Watson Assistant Hands-On - [IBM](https://www.ibm.com/training/Y835927A61405V35) (English)
+
+
+#### SQL: 
+- SQL - [Solo Learn](https://www.sololearn.com/learning/1060) (English)
 
 
 #### Power BI:
@@ -30,16 +39,8 @@
 - Tableau de A a Z - Modulo I - Business Analytics - [Udemy](https://github.com/victoresende19/Certificates/blob/main/Tableau/UC-d2ca5fa5-a44f-4aae-a427-6e3fa6d57a8c.pdf) (Portuguese)
 
 
-#### SQL: 
-- SQL - [Solo Learn](https://www.sololearn.com/learning/1060) (English)
-
-
 #### Excel: 
 - Excel focado para ambiente empresarial: Básico ao Avançado! - [Udemy](https://www.udemy.com/course/excel-basico-ao-avancado-focado-para-o-ambiente-empresarial/) (Portuguese)
-
-
-#### ETL: 
-- Pentaho: Estratégias para soluções de ETL: Direto ao ponto - [Udemy](https://www.udemy.com/course/pentaho-pdi-etl/) (Portuguese)
 
 
 #### Arduino: 
