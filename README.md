@@ -2,7 +2,7 @@
  Certificates of Victor Augusto Souza Resende
 
 #### IBM: 
--
+- Watson Assistant Foundations - [IBM](https://www.ibm.com/training/Y835927A61405V35) (English)
 -
 -
 -
