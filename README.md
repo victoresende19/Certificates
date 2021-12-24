@@ -1,7 +1,12 @@
 # Certificates
  Certificates of Victor Augusto Souza Resende
 
-
+#### IBM: 
+-
+-
+-
+-
+-
 
 #### Python: 
 - Python 3 - [Solo Learn](https://www.sololearn.com/learning/1073) (English) 
